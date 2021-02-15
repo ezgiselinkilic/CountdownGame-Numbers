@@ -1,0 +1,14 @@
+C:\Users\Ezgi\Desktop\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\bin\Debug\BirİşlemOyunu.exe.config
+C:\Users\Ezgi\Desktop\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\bin\Debug\BirİşlemOyunu.exe
+C:\Users\Ezgi\Desktop\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\bin\Debug\BirİşlemOyunu.pdb
+C:\Users\Ezgi\Desktop\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\obj\Debug\BirİşlemOyunu.csprojAssemblyReference.cache
+C:\Users\Ezgi\Desktop\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\obj\Debug\BirİşlemOyunu.exe
+C:\Users\Ezgi\Desktop\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\obj\Debug\BirİşlemOyunu.pdb
+C:\Users\Ezgi\Desktop\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\obj\Debug\BirİşlemOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ezgi\Desktop\Yeni klasör (2)\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\obj\Debug\BirİşlemOyunu.csprojAssemblyReference.cache
+C:\Users\Ezgi\Desktop\Yeni klasör (2)\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\obj\Debug\BirİşlemOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ezgi\Desktop\Yeni klasör (2)\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\obj\Debug\BirİşlemOyunu.exe
+C:\Users\Ezgi\Desktop\Yeni klasör (2)\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\obj\Debug\BirİşlemOyunu.pdb
+C:\Users\Ezgi\Desktop\Yeni klasör (2)\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\bin\Debug\BirİşlemOyunu.exe.config
+C:\Users\Ezgi\Desktop\Yeni klasör (2)\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\bin\Debug\BirİşlemOyunu.exe
+C:\Users\Ezgi\Desktop\Yeni klasör (2)\YazılımYapımı Ödev\BirİşlemOyunu\BirİşlemOyunu\bin\Debug\BirİşlemOyunu.pdb
